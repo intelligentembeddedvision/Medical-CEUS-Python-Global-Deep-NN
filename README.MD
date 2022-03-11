@@ -1,7 +1,7 @@
 Routines
 
 
-- main-global-v.2.5.py: main program implementing one global neural classifier and leave-one-out patient (LOOP) evaluation
+- main-global-v.x.x.py: main program implementing one global neural classifier and leave-one-out patient (LOOP) evaluation
 - config.py: Contains our configuration of important variables, including image and batch size, epochs, input and output file paths, etc.
 - ceusutils: Includes helper utilities, including a function to implement new LOOP Generator, custom metrics, a training history and statistics plotting function
 - model: Includes custom and classic NNs
